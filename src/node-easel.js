@@ -70,8 +70,8 @@ createjs = {
 
 var classes = [
 	'easeljs-NEXT.combined',
-	'movieclip-0.7.1.min',
-	'tweenjs-0.5.1.min'
+	'tweenjs-0.5.1.min',
+	'movieclip-0.7.1.min'
 ];
 
 for (var i = 0; i < classes.length; i++) {
